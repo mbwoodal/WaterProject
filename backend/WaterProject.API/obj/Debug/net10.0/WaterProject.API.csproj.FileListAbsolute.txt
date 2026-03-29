@@ -262,3 +262,4 @@
 /Users/michaelwoodall/Desktop/IS413/WaterProject/backend/WaterProject.API/obj/Debug/net10.0/WaterProject.API.pdb
 /Users/michaelwoodall/Desktop/IS413/WaterProject/backend/WaterProject.API/obj/Debug/net10.0/WaterProject.API.genruntimeconfig.cache
 /Users/michaelwoodall/Desktop/IS413/WaterProject/backend/WaterProject.API/obj/Debug/net10.0/ref/WaterProject.API.dll
+/Users/michaelwoodall/Desktop/IS413/WaterProject/backend/WaterProject.API/obj/Debug/net10.0/WaterProject.API.sourcelink.json
